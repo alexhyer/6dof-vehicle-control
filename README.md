@@ -1,5 +1,5 @@
 # 6dof-vehicle-control
-PID based 6dof control
+PID based 6DOF control
 
 This software is under development and shouldn't be used on any sort of vehicle. 
 
